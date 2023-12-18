@@ -16,7 +16,7 @@ export const projects = [{
         id: 3,
         title: 'My Gym',
         description: 'A web app that allow individual users to keep tracks of gym prgression like reps, and sets      (MERN)',
-        imgSource: '/portfolio/public/React.svg',
+        imgSource: '/portfolio/React.svg',
         link: 'https://github.com/dungpham2502/mygym'
     },
     {
@@ -30,7 +30,7 @@ export const projects = [{
         id: 5,
         title: 'Local Library',
         description: 'A clone library system, where users can browse available books and manage their accounts. (Python/Django, SQL)',
-        imgSource: '/portfolio/public/Python.svg',
+        imgSource: '/Python.svg',
         link: 'https://github.com/dungpham2502/locallib'
     },
     {
