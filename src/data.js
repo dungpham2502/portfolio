@@ -9,7 +9,7 @@ export const projects = [{
         id: 2,
         title: 'Task Bulls',
         description: 'An online platform that allows USF students to post and find various tasks and services (MERN)',
-        imgSource: '/portfolio/public/React.svg',
+        imgSource: '/public/React.svg',
         link: 'https://github.com/dungpham2502/Task_Bulls'
     },
     {
