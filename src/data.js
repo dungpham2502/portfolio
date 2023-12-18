@@ -2,14 +2,14 @@ export const projects = [{
         id: 1,
         title: 'Vietnam Travel Guide',
         description: 'A comprehensive web app that helps tourists choose and review places to visit in Vietnam (JavaScript/NodeJs)',
-        imgSource: '/portfolio/public/JS.svg',
+        imgSource: '/portfolio/JS.svg',
         link: 'https://github.com/dungpham2502/VNtravelguide'
     },
     {
         id: 2,
         title: 'Task Bulls',
         description: 'An online platform that allows USF students to post and find various tasks and services (MERN)',
-        imgSource: '/public/React.svg',
+        imgSource: '/portfolio/React.svg',
         link: 'https://github.com/dungpham2502/Task_Bulls'
     },
     {
@@ -23,21 +23,21 @@ export const projects = [{
         id: 4,
         title: 'Personal Portfolio',
         description: 'This portfolio where I show my projects that I did in my free time and ways to connect with me',
-        imgSource: '/portfolio/public/React.svg',
+        imgSource: '/portfolio/React.svg',
         link: 'https://github.com/dungpham2502/my_portfolio'
     },
     {
         id: 5,
         title: 'Local Library',
         description: 'A clone library system, where users can browse available books and manage their accounts. (Python/Django, SQL)',
-        imgSource: '/Python.svg',
+        imgSource: '/portfolio/Python.svg',
         link: 'https://github.com/dungpham2502/locallib'
     },
     {
         id: 6,
         title: 'Line-Following Robot',
         description: 'Code for a robot to follow a black line using Arduino and IR sensor (Arduino Programming Language)',
-        imgSource: '/portfolio/public/Arduino_IDE_logo.svg',
+        imgSource: '/portfolio/Arduino_IDE_logo.svg',
         link: 'https://github.com/dungpham2502/line-following-robot'
     }
 ]
