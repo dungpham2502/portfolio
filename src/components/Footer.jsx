@@ -8,24 +8,24 @@ const Footer = () => {
             <div>
             <ul className="flex space-x-12">
                 <li>
-                <a href="/" className="hover:text-gray-500 text-sm">
+                <Link to="/" className="hover:text-gray-500 text-sm">
                     Home
-                </a>
+                </Link>
                 </li>
                 <li>
-                <a href="/about" className="hover:text-gray-500 text-sm">
+                <Link to="/about" className="hover:text-gray-500 text-sm">
                     About
-                </a>
+                </Link>
                 </li>
                 <li>
-                <a href="/projects" className="hover:text-gray-500 text-sm">
+                <Link to="/projects" className="hover:text-gray-500 text-sm">
                     Projects
-                </a>
+                </Link>
                 </li>
                 <li>
-                <a href="/contact" className="hover:text-gray-500 text-sm">
+                <Link to="/contact" className="hover:text-gray-500 text-sm">
                     Contact
-                </a>
+                </Link>
                 </li>
             </ul>
         </div>
