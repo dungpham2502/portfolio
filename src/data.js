@@ -2,7 +2,7 @@ export const projects = [{
         id: 1,
         title: 'Vietnam Travel Guide',
         description: 'A comprehensive web app that helps tourists choose and review places to visit in Vietnam (JavaScript/NodeJs)',
-        imgSource: '/portfolio/JS.svg',
+        imgSource: '/JS.svg',
         link: 'https://github.com/dungpham2502/VNtravelguide'
     },
     {
